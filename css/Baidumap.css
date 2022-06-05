@@ -1,0 +1,17 @@
+
+a{
+	font-size: 31px;
+	font-weight:30px;
+	font-family:"楷体";
+	text-shadow: 3px 3px 3px;
+	text-decoration: none
+}
+#allmap{
+	width: 100%;
+	height: 610px;
+	margin:0 auto;
+	font-family:"微软雅黑";
+	border: solid 2px powderblue;
+}
+
+

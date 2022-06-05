@@ -1,0 +1,126 @@
+body
+{
+	background-color: PowderBlue;
+}
+h2
+{
+	color:#cfe65d;
+	text-align:center;
+}
+h3{
+color:#cfe55c;
+	font-size:23px;
+	text-align:center;
+}
+h4,h5{
+	color:#c5da58;
+	font-size: 20px;
+	text-align: center;
+}
+article,footer{
+	border: solid 2px yellow;
+	padding: 10px;
+	margin: 3px;
+	color:000080
+}
+header{
+	 background:whitesmoke;
+	 background-size:contain;
+	height: 100px;
+	 font-size: 61px;
+	 font-weight:300px;
+	 font-family:"楷体";
+	 color:#f5803b;
+	 text-align: center;
+	 border: solid 2px white;
+	 padding: 8px;
+	 margin: 3px auto;
+	 width: 100%;
+	 text-shadow: 6px 5px 6px;
+}
+aside{
+	font-size: 20px;
+	text-align: center;
+	height: 45px;
+	border: solid 1.5px;
+	width: 101%;
+	background-image:url(../img/0008020206558251_b.jpg);
+	background-size:cover;
+}
+nav{
+	 background-image:url(../img/h3.jpg);
+	 border: solid 3px yellow;
+	 padding: 11px;
+	 margin: 1px;
+	 height: 4185px;
+	 width: 10%;
+	 font-size: 23px;
+	 font-weight: 100px;
+	 border: dash 1px;
+	 color:darkred;	 
+}
+nav ul {
+	list-style-type: none;
+	margin: 0px;
+	padding: 0px;
+	line-height: 1.7em;
+}
+nav a:hover{
+	background-color: #fffae8;
+}
+nav a{
+	text-shadow: 2px 2px 2px;
+	text-decoration:none;
+	color: #f56c6e;
+	width: 66em;
+	font-family: "宋体";
+}
+#content{
+	 border: solid 1px yellow;
+	 margin: 1px;
+	 float: right; 
+	 width: 89%;
+	 height: auto;
+	 border: solid 2px yellow; 
+}
+#k1{
+	color: midnightblue;
+	font-size:20px;
+	font-family: 楷体;	
+}
+#k3{
+	 color: midnightblue;
+	 font-size:20px;
+	 font-family: 楷体;
+}
+#btn_66{
+	 font-size:21px;
+	 font-family: 楷体;
+	 color: firebrick
+}
+footer{
+	  padding-top: 10px;
+	  clear: both;
+	  width: 100%;
+	  overflow: hidden;
+	  margin-bottom: 10px; 
+	  text-align: center;
+}
+.button{
+	font-weight: 650;
+	background-color: #ffef39; /* blue */
+	border: 1px solid green;
+	color: white;
+	padding: 14px 16px;
+	text-align: center;
+	text-decoration: none;
+	display: inline-block;
+	font-size: 20px;
+	cursor: pointer;
+	border-radius: 8px;
+	box-shadow: 0 9px #999;
+    box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19);
+}
+.button1:hover {
+    background-color: #19f9d4;
+}
